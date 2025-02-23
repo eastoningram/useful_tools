@@ -1,0 +1,15 @@
+:insert
+/* -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+* File Name :
+
+* Purpose :
+
+* Creation Date :
+
+* Last Modified :
+
+* Created By :  Easton Ingram
+
+_._._._._._._._._._._._._._._._._._._._._.*/
+.
