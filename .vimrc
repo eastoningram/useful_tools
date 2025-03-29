@@ -27,7 +27,7 @@ autocmd bufwritepost,filewritepost *.py execute "normal `a"
 :set background=dark
 
 " persistent undo
-' source: https://stackoverflow.com/questions/5700389/using-vims-persistent-undo
+" source: https://stackoverflow.com/questions/5700389/using-vims-persistent-undo
 set undofile                " Save undos after file closes
 set undodir=$HOME/.vim/undo " where to save undo histories
 set undolevels=1000         " How many undos
